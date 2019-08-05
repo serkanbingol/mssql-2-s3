@@ -1,0 +1,1 @@
+aws s3 sync C:\DatabaseBackups s3://srknbngl-backupdb
